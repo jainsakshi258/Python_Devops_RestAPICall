@@ -26,7 +26,6 @@ docker images
 
 
 step 4: run the api from command line 
-python3 --version 
 python3 movie_rating.py
 
 porvide input as movie name 
