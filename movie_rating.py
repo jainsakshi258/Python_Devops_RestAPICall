@@ -16,4 +16,6 @@ class MovieRatings:
         movie_name = input()
         movie_rating = MovieRatings.get_movie_rating_by_name(movie_name)
         print(movie_rating)
+if __name__ == '__main__':
+        MovieRatings.get_movie_rating()
 
